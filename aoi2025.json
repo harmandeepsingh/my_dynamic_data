@@ -1,0 +1,40 @@
+{
+  "accommodationOptions": {
+    "sharedBasicHut": {
+      "part1": 1,
+      "part2": 0,
+      "part3": 1,
+      "part4": 1
+    },
+    "privateBasicHut": {
+      "part1": 1,
+      "part2": 0,
+      "part3": 1,
+      "part4": 1
+    },
+    "sharedStandardHut": {
+      "part1": 1,
+      "part2": 1,
+      "part3": 1,
+      "part4": 1
+    },
+    "privateStandardHut": {
+      "part1": 1,
+      "part2": 1,
+      "part3": 1,
+      "part4": 1
+    },
+    "sharedRoom": {
+      "part1": 1,
+      "part2": 1,
+      "part3": 1,
+      "part4": 1
+    },
+    "privateRoom": {
+      "part1": 1,
+      "part2": 1,
+      "part3": 1,
+      "part4": 1
+    }
+  }
+}

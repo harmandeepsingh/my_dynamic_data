@@ -2,7 +2,7 @@
   "accommodationOptions": {
     "sharedBasicHut": {
       "part1": 1,
-      "part2": 0,
+      "part2": 1,
       "part3": 1,
       "part4": 1
     },
